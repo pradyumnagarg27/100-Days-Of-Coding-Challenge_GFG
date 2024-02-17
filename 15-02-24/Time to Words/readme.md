@@ -9,3 +9,5 @@ Note: There are different corner cases appears for simplicity refer this example
 6:30 half past six  
 6:45 quarter to seven  
 6:47 thirteen minutes to seven
+
+**Link:** _https://www.geeksforgeeks.org/problems/time-to-words3728/1?page=1&difficulty=School&sprint=3af345b70185702f53af4069884b5a0a&sortBy=submissions_

@@ -1,0 +1,6 @@
+# Armstrong Numbers
+For a given 3 digit number, find whether it is armstrong number or not. An Armstrong number of three digits is a number such that the sum of the cubes of its digits is equal to the number itself. Return "Yes" if it is a armstrong number else return "No".  
+  
+**NOTE:** 371 is an Armstrong number since 33 + 73 + 13 = 371  
+  
+**Link:** _https://www.geeksforgeeks.org/problems/armstrong-numbers2727/1?page=1&difficulty=School&status=unsolved&sortBy=submissions_

@@ -1,5 +1,5 @@
 # Full Prime
-Given a number N.Check if it is Full Prime or not.   \
+Given a number N.Check if it is Full Prime or not.   
   
 **Note :** A full prime number is one in which the number itself is prime and all its digits are also prime.  
   
